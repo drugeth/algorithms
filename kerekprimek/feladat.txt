@@ -1,0 +1,3 @@
+Kerek prímnek nevezzük az olyan prímet, mely számjegyeinek összes "forgatásából" adódó szám is prím.
+Például: 719 --> 197 --> 971 --> 719 (körbeértünk), tehát 719 összes forgatása: 197, 971, amik szintén prímek, tehát 719 kerek prím.
+Feladat: Hány kerek prím van 1 millió alatt?

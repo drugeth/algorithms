@@ -1,0 +1,1 @@
+Rekurzív függvénnyel állapítsuk meg kettõnek (2) az x-edik hatványát. A hatványkitevõt felhasználótól kérjük be.

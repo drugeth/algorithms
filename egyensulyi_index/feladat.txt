@@ -1,0 +1,3 @@
+Adott egy számokból álló tömb. Az egyensúlyi index egy olyan elem indexe, melyre teljesül hogy a nála kisebb indexû elemek összege megegyezik a nála nagyobb indexû elemek összegével.
+Például: [ -7 , 1 , 5 , 2 , -4 , 3 , 0 ] --> egyensúlyi indexek: 3, 6
+Feladat: Egy e_index(tomb) {} függvény készítése, mely visszatér egy egyensúlyi index-szel, vagy ha nem létezik ilyen, -1-gyel.

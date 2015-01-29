@@ -1,0 +1,11 @@
+Írjunk PHP nyelven egy függvényt, mely a paraméterben kapott stringbõl felismeri a leghosszabb ismétlõdõ stringrészletet és ezzel tér vissza.
+
+Például:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet orci ut erat elementum mollis.
+Morbi quis dolor ipsum, sit amet sagittis urna. Sed ullamcorper lacinia elit nec mollis. Vestibulum nec
+magna velit, ac porttitor nisl. Nulla in venenatis risus. Phasellus a nisl nulla, id condimentum nibh.
+Donec eget eros id eros cursus viverra. Maecenas et adipiscing velit. Proin porta placerat vulputate.
+Duis varius erat eget lorem pellentesque rhoncus. Mauris vehicula interdum mauris, in sodales metus
+aliquam ac. Etiam ac porttitor quam. Vivamus venenatis quam molestie mi ultrices a laoreet enim
+faucibus.
+Ebben a leghosszabb ismétlõdõ rész-string: ' ac porttitor '
